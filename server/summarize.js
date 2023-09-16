@@ -1,4 +1,4 @@
-import { Pipeline, pipeline } from '@xenova/transformers'
+import { pipeline } from '@xenova/transformers'
 
 import { summaryExample } from './utils/summary.js'
 
